@@ -16,11 +16,10 @@ Use SFML 2017 version for visual studio 2019
 Click on the project
 
 - go to properties
-
+- 
 -do every step following the link
 
 https://www.sfml-dev.org/tutorials/2.5/start-vc.php
 
--UPDATING PLAN-
+![image](https://user-images.githubusercontent.com/76903207/112207391-0bff8980-8be5-11eb-838a-718adfd915e1.png)
 
--I'm planning to add health bar for the player
