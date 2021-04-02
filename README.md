@@ -21,5 +21,4 @@ Click on the project
 
 https://www.sfml-dev.org/tutorials/2.5/start-vc.php
 
-![image](https://user-images.githubusercontent.com/76903207/112207391-0bff8980-8be5-11eb-838a-718adfd915e1.png)
 
