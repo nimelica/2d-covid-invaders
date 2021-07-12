@@ -1,6 +1,6 @@
-# COVIDWar_SFML
+## COVID19 Vaccination Game
 
-### This is a simple customized space invaders game!
+### This is a simple customized 2D space invaders game!
 but this time the player is not a ship, is a soldier and trying to inoculate COVID viruses around the world!
 
 ```
@@ -9,10 +9,12 @@ but this time the player is not a ship, is a soldier and trying to inoculate COV
 ```
 
 MAKE SURE YOU SET UP YOUR SFML LIBRARY CORRECTLY BEFORE THE GAME_
+* In this project, we are going to use C++ SFML graphics library.
 
-Use SFML 2017 version for visual studio 2019
+NOTE: Use SFML 2017 version for visual studio 2019
 
--make sure your project is in "debug" mode
+Before start to work on the project:
+make sure your project is in "debug" mode!
 
 Click on the project
 
